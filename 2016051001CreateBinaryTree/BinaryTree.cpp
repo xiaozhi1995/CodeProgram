@@ -1,3 +1,4 @@
+//根据树的前序和中序遍历构建树
 #include<iostream>
 using namespace std;
 template<class T>
